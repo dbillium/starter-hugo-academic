@@ -1,7 +1,7 @@
 ---
 title: Billy Davis
 role: Associate Professor of Psychology
-avatar_filename: avatar
+avatar_filename: ""
 bio: Social and Personality Psychologist
 social:
   - display:
