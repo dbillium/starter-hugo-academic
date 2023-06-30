@@ -3,6 +3,11 @@ title: Billy Davis
 role: Associate Professor of Psychology
 avatar_filename: 'avatar-bw.jpg'
 bio: I am a social and personality psychologist and I study things like authenticity and meaning in life.
+interests:
+  - Authenticity
+  - Meaning in Life
+  - Psychological Well-Being
+  - Improving Psychological Science
 social:
   - display:
       header: false
@@ -38,4 +43,4 @@ education:
 email: davisw4@wittenberg.edu
 superuser: true
 ---
-I am a social and personality psychologist and I study things like authenticity and meaning in life. My work also focuses on efforts to improve psychological science. One of my favorite things about teaching at Wittenberg is that I am able to offer robust research experiences and individualized mentorship to undergraduate students interested in studying psychology.
+I am a social and personality psychologist and a professor at Wittenberg University. One of my favorite things about teaching at Wittenberg is that I am able to offer robust research experiences and individualized mentorship to undergraduate students interested in studying psychology.
