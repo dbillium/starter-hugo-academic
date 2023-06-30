@@ -29,10 +29,10 @@ education:
   courses:
     - course: PhD in Social and Personality Psychology
       institution: Texas A&M University
-      year: 2015
+      year: ''
     - course: BS in Philosophy/Humanities and Psychology
       institution: North Dakota State University
-      year: 2009
+      year: ''
 email: davisw4@wittenberg.edu
 superuser: true
 ---
