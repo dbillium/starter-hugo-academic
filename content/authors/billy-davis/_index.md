@@ -2,7 +2,7 @@
 title: Billy Davis
 role: Associate Professor of Psychology
 avatar_filename: 'avatar-bw.jpg'
-bio:
+bio: I am a social and personality psychologist and I study things like authenticity and meaning in life.
 social:
   - display:
       header: false
@@ -24,7 +24,9 @@ social:
     link: https://orcid.org/0000-0002-8119-821X
     icon_pack: ai
     icon: orcid
-organizations: []
+organizations:
+  - name: Wittenberg University
+    url: https://www.wittenberg.edu/
 education:
   courses:
     - course: PhD in Social and Personality Psychology
