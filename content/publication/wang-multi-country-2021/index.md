@@ -1,0 +1,513 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: A multi-country test of brief reappraisal interventions on emotions during
+  the COVID-19 pandemic
+subtitle: ''
+summary: ''
+authors:
+- Ke Wang
+- Amit Goldenberg
+- Charles A. Dorison
+- Jeremy K. Miller
+- Andero Uusberg
+- Jennifer S. Lerner
+- James J. Gross
+- Bamikole Bamikole Agesin
+- Márcia Bernardo
+- Olatz Campos
+- Luis Eudave
+- Karolina Grzech
+- Daphna Hausman Ozery
+- Emily A. Jackson
+- Elkin Oswaldo Luis Garcia
+- Shira Meir Drexler
+- Anita Penić Jurković
+- Kafeel Rana
+- John Paul Wilson
+- Maria Antoniadi
+- Kermeka Desai
+- Zoi Gialitaki
+- Elizaveta Kushnir
+- Khaoula Nadif
+- Olalla Niño Bravo
+- Rafia Nauman
+- Marlies Oosterlinck
+- Myrto Pantazi
+- Natalia Pilecka
+- Anna Szabelska
+- I. M. M. van Steenkiste
+- Katarzyna Filip
+- Andreea Ioana Bozdoc
+- Gabriela Mariana Marcu
+- Elena Agadullina
+- Matúš Adamkovič
+- Marta Roczniewska
+- Cecilia Reyna
+- Angelos P. Kassianos
+- Minja Westerlund
+- Lina Ahlgren
+- Sara Pöntinen
+- Gabriel Agboola Adetula
+- Pinar Dursun
+- Azuka Ikechukwu Arinze
+- Nwadiogo Chisom Arinze
+- Chisom Esther Ogbonnaya
+- Izuchukwu L. G. Ndukaihe
+- Ilker Dalgar
+- Handan Akkas
+- Paulo Manuel Macapagal
+- Savannah Lewis
+- Irem Metin-Orta
+- Francesco Foroni
+- Megan Willis
+- Anabela Caetano Santos
+- Aviv Mokady
+- Niv Reggev
+- Merve A. Kurfali
+- Martin R. Vasilev
+- Nora L. Nock
+- Michal Parzuchowski
+- Mauricio F. Espinoza Barría
+- Marek Vranka
+- Markéta Braun Kohlová
+- Ivan Ropovik
+- Mikayel Harutyunyan
+- Chunhui Wang
+- Elvin Yao
+- Maja Becker
+- Efisio Manunta
+- Gwenael Kaminski
+- Jordane Boudesseu
+- Dafne Marko
+- Kortnee Evans
+- David M. G. Lewis
+- Andrej Findor
+- Anais Thibault Landry
+- John Jamir Benzon Aruta
+- Manuel S. Ortiz
+- Zahir Vally
+- Ekaterina Pronizius
+- Martin Voracek
+- Claus Lamm
+- Maurice Grinberg
+- Ranran Li
+- Jaroslava Varella Valentova
+- Giovanna Mioni
+- Nicola Cellini
+- Sau-Chin Chen
+- Janis Zickfeld
+- Karis Moon
+- Habiba Azab
+- Neil Levy
+- Alper Karababa
+- Jennifer L. Beaudry
+- Leanne Boucher
+- W. Matthew Collins
+- Anna Louise Todsen
+- Kevin van Schie
+- Jáchym Vintr
+- Jozef Bavolar
+- Lada Kaliska
+- Valerija Križanić
+- Lara Samojlenko
+- Razieh Pourafshari
+- Sandra J. Geiger
+- Julia Beitner
+- Lara Warmelink
+- Robert M. Ross
+- Ian D. Stephen
+- Thomas J. Hostler
+- Soufian Azouaghe
+- Randy McCarthy
+- Anna Szala
+- Caterina Grano
+- Claudio Singh Solorzano
+- Gulnaz Anjum
+- William Jimenez-Leal
+- Maria Bradford
+- Laura Calderón Pérez
+- Julio E. Cruz Vásquez
+- Oscar J. Galindo-Caballero
+- Juan Camilo Vargas-Nieto
+- Ondřej Kácha
+- Alexios Arvanitis
+- Qinyu Xiao
+- Rodrigo Cárcamo
+- Saša Zorjan
+- Zuzanna Tajchman
+- Iris Vilares
+- Jeffrey M. Pavlacic
+- Jonas R. Kunst
+- Christian K. Tamnes
+- Claudia C. von Bastian
+- Mohammad Atari
+- MohammadHasan Sharifian
+- Monika Hricova
+- Pavol Kačmár
+- Jana Schrötter
+- Rima-Maria Rahal
+- Noga Cohen
+- Saeideh FatahModares
+- Miha Zrimsek
+- Ilya Zakharov
+- Monica A. Koehn
+- Celia Esteban-Serna
+- Robert J. Calin-Jageman
+- Anthony J. Krafnick
+- Eva Štrukelj
+- Peder Mortvedt Isager
+- Jan Urban
+- Jaime R. Silva
+- Marcel Martončik
+- Sanja Batić Očovaj
+- Dušana Šakan
+- Anna O. Kuzminska
+- Jasna Milosevic Djordjevic
+- Inês A. T. Almeida
+- Ana Ferreira
+- Ljiljana B. Lazarevic
+- Harry Manley
+- Danilo Zambrano Ricaurte
+- Renan P. Monteiro
+- Zahra Etabari
+- Erica Musser
+- Daniel Dunleavy
+- Weilun Chou
+- Hendrik Godbersen
+- Susana Ruiz-Fernández
+- Crystal Reeck
+- Carlota Batres
+- Komila Kirgizova
+- Abdumalik Muminov
+- Flavio Azevedo
+- Daniela Serrato Alvarez
+- Muhammad Mussaffa Butt
+- Jeong Min Lee
+- Zhang Chen
+- Frederick Verbruggen
+- Ignazio Ziano
+- Murat Tümer
+- Abdelilah C. A. Charyate
+- Dmitrii Dubrov
+- María del Carmen M. C. Tejada Rivera
+- Christopher Aberson
+- Bence Pálfi
+- Mónica Alarcón Maldonado
+- Barbora Hubena
+- Asli Sacakli
+- Chris D. Ceary
+- Karley L. Richard
+- Gage Singer
+- Jennifer T. Perillo
+- Tonia Ballantyne
+- Wilson Cyrus-Lai
+- Maksim Fedotov
+- Hongfei Du
+- Magdalena Wielgus
+- Ilse L. Pit
+- Matej Hruška
+- Daniela Sousa
+- Balazs Aczel
+- Nandor Hajdu
+- Barnabas Szaszi
+- Sylwia Adamus
+- Krystian Barzykowski
+- Leticia Micheli
+- Nadya-Daniela Schmidt
+- Andras N. Zsido
+- Mariola Paruzel-Czachura
+- Rafał Muda
+- Michal Bialek
+- Marta Kowal
+- Agnieszka Sorokowska
+- Michal Misiak
+- Débora Mola
+- María Victoria Ortiz
+- Pablo Sebastián Correa
+- Anabel Belaus
+- Fany Muchembled
+- Rafael R. Ribeiro
+- Patricia Arriaga
+- Raquel Oliveira
+- Leigh Ann Vaughn
+- Paulina Szwed
+- Małgorzata Kossowska
+- Gabriela Czarnek
+- Julita Kielińska
+- Benedict Antazo
+- Ruben Betlehem
+- Stefan Stieger
+- Gustav Nilsonne
+- Nicolle Simonovic
+- Jennifer Taber
+- Amélie Gourdon-Kanhukamwe
+- Artur Domurat
+- Keiko Ihaya
+- Yuki Yamada
+- Anum Urooj
+- Tripat Gill
+- Martin Čadek
+- Lisa Bylinina
+- Johanna Messerschmidt
+- Murathan Kurfalı
+- Adeyemi Adetula
+- Ekaterina Baklanova
+- Nihan Albayrak-Aydemir
+- Heather B. Kappes
+- Biljana Gjoneska
+- Thea House
+- Marc V. Jones
+- Jana B. Berkessel
+- William J. Chopik
+- Sami Çoksan
+- Martin Seehuus
+- Ahmed Khaoudi
+- Ahmed Bokkour
+- Kanza Ait El Arabi
+- Ikhlas Djamai
+- Aishwarya Iyer
+- Neha Parashar
+- Arca Adiguzel
+- Halil Emre Kocalar
+- Carsten Bundt
+- James O. Norton
+- Marietta Papadatou-Pastou
+- Anabel De la Rosa-Gomez
+- Vladislav Ankushev
+- Natalia Bogatyreva
+- Dmitry Grigoryev
+- Aleksandr Ivanov
+- Irina Prusova
+- Marina Romanova
+- Irena Sarieva
+- Maria Terskova
+- Evgeniya Hristova
+- Veselina Hristova Kadreva
+- Allison Janak
+- Vidar Schei
+- Therese E. Sverdrup
+- Adrian Dahl Askelund
+- Lina Maria Sanabria Pineda
+- Dajana Krupić
+- Carmel A. Levitan
+- Niklas Johannes
+- Nihal Ouherrou
+- Nicolas Say
+- Sladjana Sinkolova
+- Kristina Janjić
+- Marija Stojanovska
+- Dragana Stojanovska
+- Meetu Khosla
+- Andrew G. Thomas
+- Franki Y. H. Kung
+- Gijsbert Bijlstra
+- Farnaz Mosannenzadeh
+- Busra Bahar Balci
+- Ulf-Dietrich Reips
+- Ernest Baskin
+- Byurakn Ishkhanyan
+- Johanna Czamanski-Cohen
+- Barnaby James Wyld Dixson
+- David Moreau
+- Clare A. M. Sutherland
+- Hu Chuan-Peng
+- Chris Noone
+- Heather Flowe
+- Michele Anne
+- Steve M. J. Janssen
+- Marta Topor
+- Nadyanna M. Majeed
+- Yoshihiko Kunisato
+- Karen Yu
+- Shimrit Daches
+- Andree Hartanto
+- Milica Vdovic
+- Lisa Anton-Boicuk
+- Paul A. G. Forbes
+- Julia Kamburidis
+- Evelina Marinova
+- Mina Nedelcheva-Datsova
+- Nikolay R. Rachev
+- Alina Stoyanova
+- Kathleen Schmidt
+- Jordan W. Suchow
+- Maria Koptjevskaja-Tamm
+- Teodor Jernsäther
+- Jonas K. Olofsson
+- Olga Bialobrzeska
+- Magdalena Marszalek
+- Srinivasan Tatachari
+- Reza Afhami
+- Wilbert Law
+- Jan Antfolk
+- Barbara Žuro
+- Natalia Van Doren
+- Jose A. Soto
+- Rachel Searston
+- Jacob Miranda
+- Kaja Damnjanović
+- Siu Kit Yeung
+- Dino Krupić
+- Karlijn Hoyer
+- Bastian Jaeger
+- Dongning Ren
+- Gerit Pfuhl
+- Kristoffer Klevjer
+- Nadia S. Corral-Frías
+- Martha Frias-Armenta
+- Marc Y. Lucas
+- Adriana Olaya Torres
+- Mónica Toro
+- Lady Grey Javela Delgado
+- Diego Vega
+- Sara Álvarez Solas
+- Roosevelt Vilar
+- Sébastien Massoni
+- Thomas Frizzo
+- Alexandre Bran
+- David C. Vaidis
+- Luc Vieira
+- Bastien Paris
+- Mariagrazia Capizzi
+- Gabriel Lins de Holanda Coelho
+- Anna Greenburgh
+- Cassie M. Whitt
+- Alexa M. Tullett
+- Xinkai Du
+- Leonhard Volz
+- Minke Jasmijn Bosma
+- Cemre Karaarslan
+- Eylül Sarıoğuz
+- Tara Bulut Allred
+- Max Korbmacher
+- Melissa F. Colloff
+- Tiago J. S. Lima
+- Matheus Fernando Felix Ribeiro
+- Jeroen P. H. Verharen
+- Maria Karekla
+- Christiana Karashiali
+- Naoyuki Sunami
+- Lisa M. Jaremka
+- Daniel Storage
+- Sumaiya Habib
+- Anna Studzinska
+- Paul H. P. Hanel
+- Dawn Liu Holford
+- Miroslav Sirota
+- Kelly Wolfe
+- Faith Chiu
+- Andriana Theodoropoulou
+- El Rim Ahn
+- Yijun Lin
+- Erin C. Westgate
+- Hilmar Brohmer
+- Gabriela Hofer
+- Olivier Dujols
+- Kevin Vezirian
+- Gilad Feldman
+- Giovanni A. Travaglino
+- Afroja Ahmed
+- Manyu Li
+- Jasmijn Bosch
+- Nathan Torunsky
+- Hui Bai
+- Mathi Manavalan
+- Xin Song
+- Radoslaw B. Walczak
+- Przemysław Zdybek
+- Maja Friedemann
+- Anna Dalla Rosa
+- Luca Kozma
+- Sara G. Alves
+- Samuel Lins
+- Isabel R. Pinto
+- Rita C. Correia
+- Peter Babinčák
+- Gabriel Banik
+- Luis Miguel Rojas-Berscia
+- Marco A. C. Varella
+- Jim Uttley
+- Julie E. Beshears
+- Katrine Krabbe Thommesen
+- Behzad Behzadnia
+- Shawn N. Geniole
+- Miguel A. Silan
+- Princess Lovella G. Maturan
+- Johannes K. Vilsmeier
+- Ulrich S. Tran
+- Sara Morales Izquierdo
+- Michael C. Mensink
+- Piotr Sorokowski
+- Agata Groyecka-Bernard
+- Theda Radtke
+- Vera Cubela Adoric
+- Joelle Carpentier
+- Asil Ali Özdoğru
+- Jennifer A. Joy-Gaba
+- Mattie V. Hedgebeth
+- Tatsunori Ishii
+- Aaron L. Wichman
+- Jan Philipp Röer
+- Thomas Ostermann
+- William E. Davis
+- Lilian Suter
+- Konstantinos Papachristopoulos
+- Chelsea Zabel
+- Sandersan Onie
+- Charles R. Ebersole
+- Christopher R. Chartier
+- Peter R. Mallik
+- Heather L. Urry
+- Erin M. Buchanan
+- Nicholas A. Coles
+- Maximilian A. Primbs
+- Dana M. Basnight-Brown
+- Hans IJzerman
+- Patrick S. Forscher
+- Hannah Moshontz
+tags:
+- Human behaviour
+- Psychology
+categories: []
+date: '2021-08-01'
+lastmod: 2023-06-30T10:47:25-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-06-30T14:47:24.413318Z'
+publication_types:
+- '2'
+abstract: The COVID-19 pandemic has increased negative emotions and decreased positive
+  emotions globally. Left unchecked, these emotional changes might have a wide array
+  of adverse impacts. To reduce negative emotions and increase positive emotions,
+  we tested the effectiveness of reappraisal, an emotion-regulation strategy that
+  modifies how one thinks about a situation. Participants from 87 countries and regions
+  (n = 21,644) were randomly assigned to one of two brief reappraisal interventions
+  (reconstrual or repurposing) or one of two control conditions (active or passive).
+  Results revealed that both reappraisal interventions (vesus both control conditions)
+  consistently reduced negative emotions and increased positive emotions across different
+  measures. Reconstrual and repurposing interventions had similar effects. Importantly,
+  planned exploratory analyses indicated that reappraisal interventions did not reduce
+  intentions to practice preventive health behaviours. The findings demonstrate the
+  viability of creating scalable, low-cost interventions for use around the world.
+publication: '*Nature Human Behaviour*'
+doi: 10.1038/s41562-021-01173-x
+links:
+- name: URL
+  url: https://www.nature.com/articles/s41562-021-01173-x
+---
